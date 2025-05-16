@@ -1,4 +1,4 @@
-# Olá, eu sou o João Ribeiro 👋
+# Hello, I'm João Ribeiro 👋
 
 - Email: jpmr0703@gmail.com 
 - LinkedIn: https://www.linkedin.com/in/joaaoribeiro/
