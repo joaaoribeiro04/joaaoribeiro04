@@ -1,10 +1,8 @@
-# Hello, I'm João Ribeiro 👋
+### Hello, I'm João Ribeiro 👋
 
-<div>
-  <a href="https://github.com/joaaoribeiro04">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=joaaoribeiro04&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaaoribeiro04&layout=compact&langs_count=16&theme=dracula" /> 
-</div>
+<img width="140px" alt="joaaoribeiro04 Github profile views" src="https://komarev.com/ghpvc/?username=joaaoribeiro04" /> [![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https://Portfolio/)](https://portfolio.joaoribeiro.workers.dev/)
+
+##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
